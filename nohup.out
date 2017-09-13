@@ -1,0 +1,30 @@
+[I 13:33:48.949 NotebookApp] The port 8888 is already in use, trying another port.
+[I 13:33:48.987 NotebookApp] [jupyter_nbextensions_configurator] enabled 0.2.5
+[I 13:33:49.020 NotebookApp] Serving notebooks from local directory: /Users/qisc/project/learn-pytorch
+[I 13:33:49.020 NotebookApp] 0 active kernels 
+[I 13:33:49.020 NotebookApp] The Jupyter Notebook is running at: http://localhost:8889/?token=4aeb45868ac1e7fcf199234c396d196cbb9750ad960b1c51
+[I 13:33:49.020 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[C 13:33:49.025 NotebookApp] 
+    
+    Copy/paste this URL into your browser when you connect for the first time,
+    to login with a token:
+        http://localhost:8889/?token=4aeb45868ac1e7fcf199234c396d196cbb9750ad960b1c51
+[I 13:33:49.577 NotebookApp] Accepting one-time-token-authenticated connection from ::1
+[I 13:34:13.609 NotebookApp] Creating new notebook in 
+[I 13:34:14.285 NotebookApp] Kernel started: 6b7a422c-e7ae-4019-8c85-8bd9061d48b7
+[W 13:34:14.349 NotebookApp] 404 GET /nbextensions/nbpresent/js/nbpresent.min.js (::1) 12.43ms referer=http://localhost:8889/notebooks/Untitled.ipynb?kernel_name=python3
+[W 13:34:14.358 NotebookApp] 404 GET /nbextensions/nb_conda/main.js (::1) 2.77ms referer=http://localhost:8889/notebooks/Untitled.ipynb?kernel_name=python3
+[W 13:34:14.378 NotebookApp] 404 GET /nbextensions/nb_anacondacloud/main.js (::1) 2.83ms referer=http://localhost:8889/notebooks/Untitled.ipynb?kernel_name=python3
+[I 13:36:14.247 NotebookApp] Saving file at /Deep Learning with PyTorch  A 60 Minute Blitz.ipynb
+[I 13:38:14.246 NotebookApp] Saving file at /Deep Learning with PyTorch  A 60 Minute Blitz.ipynb
+[I 13:39:12.618 NotebookApp] Saving file at /Deep Learning with PyTorch  A 60 Minute Blitz.ipynb
+[I 13:39:22.701 NotebookApp] Saving file at /Deep Learning with PyTorch  A 60 Minute Blitz.ipynb
+[I 13:39:24.090 NotebookApp] Saving file at /Deep Learning with PyTorch  A 60 Minute Blitz.ipynb
+[I 13:40:14.260 NotebookApp] Saving file at /Deep Learning with PyTorch  A 60 Minute Blitz.ipynb
+[I 13:42:14.268 NotebookApp] Saving file at /Deep Learning with PyTorch  A 60 Minute Blitz.ipynb
+[I 13:44:14.276 NotebookApp] Saving file at /Deep Learning with PyTorch  A 60 Minute Blitz.ipynb
+[I 13:46:14.285 NotebookApp] Saving file at /Deep Learning with PyTorch  A 60 Minute Blitz.ipynb
+[I 13:48:14.294 NotebookApp] Saving file at /Deep Learning with PyTorch  A 60 Minute Blitz.ipynb
+[I 13:50:14.300 NotebookApp] Saving file at /Deep Learning with PyTorch  A 60 Minute Blitz.ipynb
+[I 13:52:14.310 NotebookApp] Saving file at /Deep Learning with PyTorch  A 60 Minute Blitz.ipynb
+[I 13:54:14.319 NotebookApp] Saving file at /Deep Learning with PyTorch  A 60 Minute Blitz.ipynb

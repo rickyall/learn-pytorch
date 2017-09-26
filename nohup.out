@@ -28,3 +28,460 @@
 [I 13:50:14.300 NotebookApp] Saving file at /Deep Learning with PyTorch  A 60 Minute Blitz.ipynb
 [I 13:52:14.310 NotebookApp] Saving file at /Deep Learning with PyTorch  A 60 Minute Blitz.ipynb
 [I 13:54:14.319 NotebookApp] Saving file at /Deep Learning with PyTorch  A 60 Minute Blitz.ipynb
+[I 13:59:33.810 NotebookApp] 302 GET / (::1) 0.35ms
+[I 13:59:38.285 NotebookApp] 302 GET / (::1) 1.01ms
+[I 22:22:22.647 NotebookApp] 302 GET / (::1) 2.95ms
+[W 22:22:37.121 NotebookApp] 404 GET /nbextensions/nbpresent/js/nbpresent.min.js (::1) 2.88ms referer=http://localhost:8889/notebooks/Deep%20Learning%20with%20PyTorch%20%20A%2060%20Minute%20Blitz.ipynb
+[W 22:22:37.147 NotebookApp] 404 GET /nbextensions/nb_conda/main.js (::1) 1.62ms referer=http://localhost:8889/notebooks/Deep%20Learning%20with%20PyTorch%20%20A%2060%20Minute%20Blitz.ipynb
+[W 22:22:37.153 NotebookApp] 404 GET /nbextensions/nb_anacondacloud/main.js (::1) 2.14ms referer=http://localhost:8889/notebooks/Deep%20Learning%20with%20PyTorch%20%20A%2060%20Minute%20Blitz.ipynb
+[W 22:22:37.953 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js (::1) 2.57ms referer=http://localhost:8889/notebooks/Deep%20Learning%20with%20PyTorch%20%20A%2060%20Minute%20Blitz.ipynb
+[W 22:23:01.181 NotebookApp] 404 GET /nbextensions/nbpresent/js/nbpresent.min.js (::1) 2.83ms referer=http://localhost:8889/notebooks/Deep%20Learning%20with%20PyTorch%20%20A%2060%20Minute%20Blitz.ipynb
+[W 22:23:01.198 NotebookApp] 404 GET /nbextensions/nb_anacondacloud/main.js (::1) 2.06ms referer=http://localhost:8889/notebooks/Deep%20Learning%20with%20PyTorch%20%20A%2060%20Minute%20Blitz.ipynb
+[W 22:23:01.206 NotebookApp] 404 GET /nbextensions/nb_conda/main.js (::1) 4.86ms referer=http://localhost:8889/notebooks/Deep%20Learning%20with%20PyTorch%20%20A%2060%20Minute%20Blitz.ipynb
+[W 22:23:01.770 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js (::1) 6.51ms referer=http://localhost:8889/notebooks/Deep%20Learning%20with%20PyTorch%20%20A%2060%20Minute%20Blitz.ipynb
+[I 22:24:29.341 NotebookApp] 302 GET / (::1) 0.37ms
+[W 22:24:34.009 NotebookApp] 404 GET /nbextensions/nbpresent/js/nbpresent.min.js (::1) 2.76ms referer=http://localhost:8889/notebooks/Deep%20Learning%20with%20PyTorch%20%20A%2060%20Minute%20Blitz.ipynb
+[W 22:24:34.030 NotebookApp] 404 GET /nbextensions/nb_conda/main.js (::1) 3.01ms referer=http://localhost:8889/notebooks/Deep%20Learning%20with%20PyTorch%20%20A%2060%20Minute%20Blitz.ipynb
+[W 22:24:34.033 NotebookApp] 404 GET /nbextensions/nb_anacondacloud/main.js (::1) 2.50ms referer=http://localhost:8889/notebooks/Deep%20Learning%20with%20PyTorch%20%20A%2060%20Minute%20Blitz.ipynb
+[W 22:24:34.202 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js (::1) 2.78ms referer=http://localhost:8889/notebooks/Deep%20Learning%20with%20PyTorch%20%20A%2060%20Minute%20Blitz.ipynb
+[I 22:28:34.003 NotebookApp] Saving file at /Deep Learning with PyTorch  A 60 Minute Blitz.ipynb
+[I 22:30:34.011 NotebookApp] Saving file at /Deep Learning with PyTorch  A 60 Minute Blitz.ipynb
+[I 22:30:44.384 NotebookApp] Saving file at /Deep Learning with PyTorch  A 60 Minute Blitz.ipynb
+[I 22:32:34.016 NotebookApp] Saving file at /Deep Learning with PyTorch  A 60 Minute Blitz.ipynb
+[I 22:34:34.024 NotebookApp] Saving file at /Deep Learning with PyTorch  A 60 Minute Blitz.ipynb
+[I 22:36:34.032 NotebookApp] Saving file at /Deep Learning with PyTorch  A 60 Minute Blitz.ipynb
+[I 22:38:34.038 NotebookApp] Saving file at /Deep Learning with PyTorch  A 60 Minute Blitz.ipynb
+[I 22:40:19.884 NotebookApp] Saving file at /Deep Learning with PyTorch  A 60 Minute Blitz.ipynb
+[I 22:42:34.055 NotebookApp] Saving file at /Deep Learning with PyTorch  A 60 Minute Blitz.ipynb
+[I 22:44:34.064 NotebookApp] Saving file at /Deep Learning with PyTorch  A 60 Minute Blitz.ipynb
+[I 22:46:34.069 NotebookApp] Saving file at /Deep Learning with PyTorch  A 60 Minute Blitz.ipynb
+[I 22:48:34.673 NotebookApp] Saving file at /Deep Learning with PyTorch  A 60 Minute Blitz.ipynb
+[I 22:50:34.484 NotebookApp] Saving file at /Deep Learning with PyTorch  A 60 Minute Blitz.ipynb
+[I 22:58:34.736 NotebookApp] Saving file at /Deep Learning with PyTorch  A 60 Minute Blitz.ipynb
+[C 07:11:53.975 NotebookApp] received signal 15, stopping
+[I 07:11:54.504 NotebookApp] Shutting down kernels
+[I 07:11:55.213 NotebookApp] Kernel shutdown: 6b7a422c-e7ae-4019-8c85-8bd9061d48b7
+[I 14:34:32.391 NotebookApp] [jupyter_nbextensions_configurator] enabled 0.2.5
+[I 14:34:32.424 NotebookApp] Serving notebooks from local directory: /Users/qisc/project/learn-pytorch
+[I 14:34:32.424 NotebookApp] 0 active kernels 
+[I 14:34:32.424 NotebookApp] The Jupyter Notebook is running at: http://localhost:8888/?token=57979124cfa49037c931042b47b97a685730134d2d89c685
+[I 14:34:32.424 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[C 14:34:32.425 NotebookApp] 
+    
+    Copy/paste this URL into your browser when you connect for the first time,
+    to login with a token:
+        http://localhost:8888/?token=57979124cfa49037c931042b47b97a685730134d2d89c685
+[I 14:34:35.230 NotebookApp] Accepting one-time-token-authenticated connection from ::1
+[W 14:34:43.130 NotebookApp] Notebook Deep Learning with PyTorch  A 60 Minute Blitz.ipynb is not trusted
+[W 14:34:43.293 NotebookApp] 404 GET /nbextensions/nbpresent/js/nbpresent.min.js (::1) 14.18ms referer=http://localhost:8888/notebooks/Deep%20Learning%20with%20PyTorch%20%20A%2060%20Minute%20Blitz.ipynb
+[I 14:34:43.921 NotebookApp] Kernel started: e1382734-c7b1-4f43-8930-ba7adc082cf9
+[W 14:34:43.942 NotebookApp] 404 GET /nbextensions/nb_anacondacloud/main.js (::1) 3.30ms referer=http://localhost:8888/notebooks/Deep%20Learning%20with%20PyTorch%20%20A%2060%20Minute%20Blitz.ipynb
+[W 14:34:43.965 NotebookApp] 404 GET /nbextensions/nb_conda/main.js (::1) 2.62ms referer=http://localhost:8888/notebooks/Deep%20Learning%20with%20PyTorch%20%20A%2060%20Minute%20Blitz.ipynb
+[W 14:34:44.126 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js (::1) 2.68ms referer=http://localhost:8888/notebooks/Deep%20Learning%20with%20PyTorch%20%20A%2060%20Minute%20Blitz.ipynb
+[I 14:38:43.923 NotebookApp] Saving file at /Deep Learning with PyTorch  A 60 Minute Blitz.ipynb
+[I 14:40:04.918 NotebookApp] Saving file at /Deep Learning with PyTorch  A 60 Minute Blitz.ipynb
+[I 14:40:43.930 NotebookApp] Saving file at /Deep Learning with PyTorch  A 60 Minute Blitz.ipynb
+[I 14:41:10.284 NotebookApp] Saving file at /Deep Learning with PyTorch  A 60 Minute Blitz.ipynb
+[I 14:42:06.624 NotebookApp] Saving file at /Deep Learning with PyTorch  A 60 Minute Blitz.ipynb
+[I 14:42:53.553 NotebookApp] Saving file at /Deep Learning with PyTorch  A 60 Minute Blitz.ipynb
+[I 14:44:27.570 NotebookApp] 302 GET / (::1) 0.38ms
+[I 14:44:34.345 NotebookApp] Creating new notebook in 
+[I 14:44:35.295 NotebookApp] Kernel started: bd183511-00b9-497b-98b8-95ff833dd4f9
+[W 14:44:35.354 NotebookApp] 404 GET /nbextensions/nbpresent/js/nbpresent.min.js (::1) 2.76ms referer=http://localhost:8888/notebooks/Untitled.ipynb?kernel_name=python3
+[W 14:44:35.370 NotebookApp] 404 GET /nbextensions/nb_anacondacloud/main.js (::1) 2.08ms referer=http://localhost:8888/notebooks/Untitled.ipynb?kernel_name=python3
+[W 14:44:35.387 NotebookApp] 404 GET /nbextensions/nb_conda/main.js (::1) 2.56ms referer=http://localhost:8888/notebooks/Untitled.ipynb?kernel_name=python3
+[W 14:44:35.509 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js (::1) 2.10ms referer=http://localhost:8888/notebooks/Untitled.ipynb?kernel_name=python3
+[I 14:46:35.314 NotebookApp] Saving file at /Training a classifier.ipynb
+[I 14:48:35.319 NotebookApp] Saving file at /Training a classifier.ipynb
+[I 14:50:35.329 NotebookApp] Saving file at /Training a classifier.ipynb
+[I 14:52:35.334 NotebookApp] Saving file at /Training a classifier.ipynb
+[I 14:54:35.347 NotebookApp] Saving file at /Training a classifier.ipynb
+[I 14:56:26.128 NotebookApp] Saving file at /Training a classifier.ipynb
+[I 14:56:35.353 NotebookApp] Saving file at /Training a classifier.ipynb
+[I 14:56:35.791 NotebookApp] Saving file at /Training a classifier.ipynb
+[I 14:56:41.703 NotebookApp] Saving file at /Training a classifier.ipynb
+[I 15:00:35.369 NotebookApp] Saving file at /Training a classifier.ipynb
+[I 15:01:40.127 NotebookApp] Saving file at /Training a classifier.ipynb
+[I 15:02:29.694 NotebookApp] Saving file at /Training a classifier.ipynb
+[I 15:02:35.377 NotebookApp] Saving file at /Training a classifier.ipynb
+[I 15:02:45.557 NotebookApp] Saving file at /Training a classifier.ipynb
+[I 15:03:21.846 NotebookApp] Saving file at /Training a classifier.ipynb
+[I 15:04:00.264 NotebookApp] Saving file at /Training a classifier.ipynb
+[I 15:04:35.386 NotebookApp] Saving file at /Training a classifier.ipynb
+[I 15:04:37.029 NotebookApp] Saving file at /Training a classifier.ipynb
+[I 15:06:36.423 NotebookApp] Saving file at /Training a classifier.ipynb
+[I 15:08:36.531 NotebookApp] Saving file at /Training a classifier.ipynb
+[I 15:12:36.345 NotebookApp] Saving file at /Training a classifier.ipynb
+[I 15:15:44.991 NotebookApp] Saving file at /Training a classifier.ipynb
+[I 15:15:49.402 NotebookApp] Saving file at /Training a classifier.ipynb
+[I 15:18:35.447 NotebookApp] Saving file at /Training a classifier.ipynb
+[I 15:24:35.468 NotebookApp] Saving file at /Training a classifier.ipynb
+[I 15:26:04.526 NotebookApp] Saving file at /Training a classifier.ipynb
+[I 15:26:35.478 NotebookApp] Saving file at /Training a classifier.ipynb
+[I 15:27:51.070 NotebookApp] Saving file at /Training a classifier.ipynb
+[I 15:28:35.490 NotebookApp] Saving file at /Training a classifier.ipynb
+[I 15:30:35.495 NotebookApp] Saving file at /Training a classifier.ipynb
+[I 15:32:35.508 NotebookApp] Saving file at /Training a classifier.ipynb
+[I 15:33:34.934 NotebookApp] Saving file at /Training a classifier.ipynb
+[I 15:34:35.517 NotebookApp] Saving file at /Training a classifier.ipynb
+[I 15:34:55.715 NotebookApp] Saving file at /Training a classifier.ipynb
+[I 15:38:35.528 NotebookApp] Saving file at /Training a classifier.ipynb
+[I 15:39:04.109 NotebookApp] Saving file at /Training a classifier.ipynb
+[I 15:40:35.537 NotebookApp] Saving file at /Training a classifier.ipynb
+[I 15:42:35.549 NotebookApp] Saving file at /Training a classifier.ipynb
+[I 15:42:41.851 NotebookApp] Saving file at /Training a classifier.ipynb
+[I 15:44:35.555 NotebookApp] Saving file at /Training a classifier.ipynb
+[I 15:46:35.562 NotebookApp] Saving file at /Training a classifier.ipynb
+[I 15:47:56.200 NotebookApp] Saving file at /Training a classifier.ipynb
+[I 15:48:01.425 NotebookApp] Saving file at /Training a classifier.ipynb
+[I 15:48:35.568 NotebookApp] Saving file at /Training a classifier.ipynb
+[I 15:49:00.329 NotebookApp] Saving file at /Training a classifier.ipynb
+[I 15:49:17.206 NotebookApp] Saving file at /Training a classifier.ipynb
+[I 15:50:04.699 NotebookApp] Saving file at /Training a classifier.ipynb
+[I 15:50:35.580 NotebookApp] Saving file at /Training a classifier.ipynb
+[I 15:52:35.585 NotebookApp] Saving file at /Training a classifier.ipynb
+[I 15:54:35.595 NotebookApp] Saving file at /Training a classifier.ipynb
+[I 15:55:19.634 NotebookApp] Saving file at /Training a classifier.ipynb
+[I 15:56:35.609 NotebookApp] Saving file at /Training a classifier.ipynb
+[I 15:58:35.612 NotebookApp] Saving file at /Training a classifier.ipynb
+[I 15:58:57.789 NotebookApp] Saving file at /Training a classifier.ipynb
+[I 15:59:38.291 NotebookApp] Saving file at /Training a classifier.ipynb
+[I 16:00:35.623 NotebookApp] Saving file at /Training a classifier.ipynb
+[I 16:02:35.628 NotebookApp] Saving file at /Training a classifier.ipynb
+[I 16:04:35.638 NotebookApp] Saving file at /Training a classifier.ipynb
+[I 16:04:36.514 NotebookApp] Saving file at /Training a classifier.ipynb
+[I 16:06:11.973 NotebookApp] Saving file at /Training a classifier.ipynb
+[I 16:06:35.645 NotebookApp] Saving file at /Training a classifier.ipynb
+[I 16:08:35.659 NotebookApp] Saving file at /Training a classifier.ipynb
+[I 16:10:35.667 NotebookApp] Saving file at /Training a classifier.ipynb
+[I 16:48:34.745 NotebookApp] Creating new notebook in 
+[I 16:48:36.304 NotebookApp] Kernel started: 361e8d78-b941-40d3-aab5-baa556c17cd6
+[W 16:48:36.390 NotebookApp] 404 GET /nbextensions/nbpresent/js/nbpresent.min.js (::1) 2.67ms referer=http://localhost:8888/notebooks/Untitled.ipynb?kernel_name=python3
+[W 16:48:36.400 NotebookApp] 404 GET /nbextensions/nb_anacondacloud/main.js (::1) 2.72ms referer=http://localhost:8888/notebooks/Untitled.ipynb?kernel_name=python3
+[W 16:48:36.412 NotebookApp] 404 GET /nbextensions/nb_conda/main.js (::1) 2.54ms referer=http://localhost:8888/notebooks/Untitled.ipynb?kernel_name=python3
+[W 16:48:36.484 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js (::1) 2.68ms referer=http://localhost:8888/notebooks/Untitled.ipynb?kernel_name=python3
+[I 16:50:36.321 NotebookApp] Saving file at /Untitled.ipynb
+[I 16:52:36.331 NotebookApp] Saving file at /Reinforcement Learning (DQN) tutorial.ipynb
+[I 16:53:21.751 NotebookApp] Saving file at /Reinforcement Learning (DQN) tutorial.ipynb
+[I 16:54:14.883 NotebookApp] Saving file at /Reinforcement Learning (DQN) tutorial.ipynb
+[I 16:54:36.336 NotebookApp] Saving file at /Reinforcement Learning (DQN) tutorial.ipynb
+[I 16:56:36.350 NotebookApp] Saving file at /Reinforcement Learning (DQN) tutorial.ipynb
+[I 16:58:36.353 NotebookApp] Saving file at /Reinforcement Learning (DQN) tutorial.ipynb
+[I 16:59:19.226 NotebookApp] Saving file at /Reinforcement Learning (DQN) tutorial.ipynb
+[I 17:01:36.774 NotebookApp] Saving file at /Reinforcement Learning (DQN) tutorial.ipynb
+[I 17:02:36.391 NotebookApp] Saving file at /Reinforcement Learning (DQN) tutorial.ipynb
+[I 17:06:36.387 NotebookApp] Saving file at /Reinforcement Learning (DQN) tutorial.ipynb
+[I 17:08:36.399 NotebookApp] Saving file at /Reinforcement Learning (DQN) tutorial.ipynb
+[I 17:09:27.784 NotebookApp] Saving file at /Reinforcement Learning (DQN) tutorial.ipynb
+[I 17:09:33.247 NotebookApp] Saving file at /Reinforcement Learning (DQN) tutorial.ipynb
+[I 17:10:01.848 NotebookApp] Saving file at /Reinforcement Learning (DQN) tutorial.ipynb
+[I 17:10:36.403 NotebookApp] Saving file at /Reinforcement Learning (DQN) tutorial.ipynb
+[I 17:12:36.415 NotebookApp] Saving file at /Reinforcement Learning (DQN) tutorial.ipynb
+[I 17:22:36.453 NotebookApp] Saving file at /Reinforcement Learning (DQN) tutorial.ipynb
+[I 17:24:36.465 NotebookApp] Saving file at /Reinforcement Learning (DQN) tutorial.ipynb
+[I 17:25:16.192 NotebookApp] Saving file at /Reinforcement Learning (DQN) tutorial.ipynb
+[I 17:25:51.282 NotebookApp] Saving file at /Reinforcement Learning (DQN) tutorial.ipynb
+[I 17:26:08.998 NotebookApp] Saving file at /Reinforcement Learning (DQN) tutorial.ipynb
+[I 17:26:36.472 NotebookApp] Saving file at /Reinforcement Learning (DQN) tutorial.ipynb
+[I 17:28:36.479 NotebookApp] Saving file at /Reinforcement Learning (DQN) tutorial.ipynb
+[I 17:34:36.503 NotebookApp] Saving file at /Reinforcement Learning (DQN) tutorial.ipynb
+[I 17:35:16.989 NotebookApp] Saving file at /Reinforcement Learning (DQN) tutorial.ipynb
+[I 17:35:49.404 NotebookApp] Saving file at /Reinforcement Learning (DQN) tutorial.ipynb
+[I 17:36:36.514 NotebookApp] Saving file at /Reinforcement Learning (DQN) tutorial.ipynb
+[I 17:37:16.486 NotebookApp] Saving file at /Reinforcement Learning (DQN) tutorial.ipynb
+[I 17:37:30.438 NotebookApp] Saving file at /Reinforcement Learning (DQN) tutorial.ipynb
+[I 17:38:06.215 NotebookApp] Saving file at /Reinforcement Learning (DQN) tutorial.ipynb
+[I 17:38:36.518 NotebookApp] Saving file at /Reinforcement Learning (DQN) tutorial.ipynb
+[I 17:40:36.531 NotebookApp] Saving file at /Reinforcement Learning (DQN) tutorial.ipynb
+[I 17:42:36.536 NotebookApp] Saving file at /Reinforcement Learning (DQN) tutorial.ipynb
+[I 17:44:36.544 NotebookApp] Saving file at /Reinforcement Learning (DQN) tutorial.ipynb
+[I 17:45:33.612 NotebookApp] Saving file at /Reinforcement Learning (DQN) tutorial.ipynb
+[I 17:46:36.555 NotebookApp] Saving file at /Reinforcement Learning (DQN) tutorial.ipynb
+[I 17:46:59.257 NotebookApp] Saving file at /Reinforcement Learning (DQN) tutorial.ipynb
+[I 17:47:03.390 NotebookApp] Kernel restarted: 361e8d78-b941-40d3-aab5-baa556c17cd6
+[I 17:48:36.562 NotebookApp] Saving file at /Reinforcement Learning (DQN) tutorial.ipynb
+[I 17:51:42.393 NotebookApp] KernelRestarter: restarting kernel (1/5)
+[C 18:01:52.083 NotebookApp] received signal 15, stopping
+[I 09:04:48.687 NotebookApp] [jupyter_nbextensions_configurator] enabled 0.2.5
+[I 09:04:48.723 NotebookApp] Serving notebooks from local directory: /Users/qisc/project/learn-pytorch
+[I 09:04:48.723 NotebookApp] 0 active kernels 
+[I 09:04:48.723 NotebookApp] The Jupyter Notebook is running at: http://localhost:8888/?token=89c11b40f4692bc8ea82bcc9e5035b8811497f70f52367af
+[I 09:04:48.723 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[C 09:04:48.724 NotebookApp] 
+    
+    Copy/paste this URL into your browser when you connect for the first time,
+    to login with a token:
+        http://localhost:8888/?token=89c11b40f4692bc8ea82bcc9e5035b8811497f70f52367af
+[I 09:04:49.216 NotebookApp] Accepting one-time-token-authenticated connection from ::1
+[W 09:05:40.361 NotebookApp] 404 GET /nbextensions/nbpresent/js/nbpresent.min.js (::1) 9.64ms referer=http://localhost:8888/notebooks/Reinforcement%20Learning%20(DQN)%20tutorial.ipynb
+[W 09:05:40.371 NotebookApp] 404 GET /nbextensions/nb_anacondacloud/main.js (::1) 3.18ms referer=http://localhost:8888/notebooks/Reinforcement%20Learning%20(DQN)%20tutorial.ipynb
+[W 09:05:40.375 NotebookApp] 404 GET /nbextensions/nb_conda/main.js (::1) 1.30ms referer=http://localhost:8888/notebooks/Reinforcement%20Learning%20(DQN)%20tutorial.ipynb
+[I 09:05:40.790 NotebookApp] Kernel started: 37555e81-7d5f-462f-a244-8317f00e9584
+[W 09:05:40.926 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js (::1) 2.54ms referer=http://localhost:8888/notebooks/Reinforcement%20Learning%20(DQN)%20tutorial.ipynb
+[I 09:07:40.798 NotebookApp] Saving file at /Reinforcement Learning (DQN) tutorial.ipynb
+[I 09:09:40.788 NotebookApp] Saving file at /Reinforcement Learning (DQN) tutorial.ipynb
+[I 09:21:40.836 NotebookApp] Saving file at /Reinforcement Learning (DQN) tutorial.ipynb
+[I 09:23:40.843 NotebookApp] Saving file at /Reinforcement Learning (DQN) tutorial.ipynb
+[I 09:25:40.852 NotebookApp] Saving file at /Reinforcement Learning (DQN) tutorial.ipynb
+[I 09:26:39.602 NotebookApp] Saving file at /Reinforcement Learning (DQN) tutorial.ipynb
+[I 09:28:17.712 NotebookApp] Saving file at /Reinforcement Learning (DQN) tutorial.ipynb
+[I 09:28:26.074 NotebookApp] Saving file at /Reinforcement Learning (DQN) tutorial.ipynb
+[I 09:28:27.712 NotebookApp] Saving file at /Reinforcement Learning (DQN) tutorial.ipynb
+[I 09:29:16.778 NotebookApp] Saving file at /Reinforcement Learning (DQN) tutorial.ipynb
+[I 09:29:40.870 NotebookApp] Saving file at /Reinforcement Learning (DQN) tutorial.ipynb
+[I 09:29:42.892 NotebookApp] Saving file at /Reinforcement Learning (DQN) tutorial.ipynb
+[I 09:31:40.877 NotebookApp] Saving file at /Reinforcement Learning (DQN) tutorial.ipynb
+[I 09:32:38.141 NotebookApp] Saving file at /Reinforcement Learning (DQN) tutorial.ipynb
+[I 09:33:40.882 NotebookApp] Saving file at /Reinforcement Learning (DQN) tutorial.ipynb
+[I 09:34:19.750 NotebookApp] Saving file at /Reinforcement Learning (DQN) tutorial.ipynb
+[I 09:35:40.892 NotebookApp] Saving file at /Reinforcement Learning (DQN) tutorial.ipynb
+[I 09:37:15.800 NotebookApp] Saving file at /Reinforcement Learning (DQN) tutorial.ipynb
+[I 09:37:40.903 NotebookApp] Saving file at /Reinforcement Learning (DQN) tutorial.ipynb
+[I 09:39:40.907 NotebookApp] Saving file at /Reinforcement Learning (DQN) tutorial.ipynb
+[I 09:39:46.874 NotebookApp] Saving file at /Reinforcement Learning (DQN) tutorial.ipynb
+[I 09:40:39.603 NotebookApp] Saving file at /Reinforcement Learning (DQN) tutorial.ipynb
+[I 09:44:51.772 NotebookApp] Saving file at /Reinforcement Learning (DQN) tutorial.ipynb
+[I 09:45:28.462 NotebookApp] Saving file at /Reinforcement Learning (DQN) tutorial.ipynb
+[I 09:45:41.087 NotebookApp] Saving file at /Reinforcement Learning (DQN) tutorial.ipynb
+[I 09:46:24.167 NotebookApp] Saving file at /Reinforcement Learning (DQN) tutorial.ipynb
+[I 09:47:36.133 NotebookApp] Saving file at /Reinforcement Learning (DQN) tutorial.ipynb
+[I 09:47:40.943 NotebookApp] Saving file at /Reinforcement Learning (DQN) tutorial.ipynb
+[I 09:48:52.202 NotebookApp] Saving file at /Reinforcement Learning (DQN) tutorial.ipynb
+[I 09:49:10.465 NotebookApp] Saving file at /Reinforcement Learning (DQN) tutorial.ipynb
+[I 09:50:58.799 NotebookApp] Saving file at /Reinforcement Learning (DQN) tutorial.ipynb
+[I 09:51:40.958 NotebookApp] Saving file at /Reinforcement Learning (DQN) tutorial.ipynb
+[I 09:52:02.842 NotebookApp] Saving file at /Reinforcement Learning (DQN) tutorial.ipynb
+[I 09:53:40.966 NotebookApp] Saving file at /Reinforcement Learning (DQN) tutorial.ipynb
+[I 09:54:00.063 NotebookApp] Saving file at /Reinforcement Learning (DQN) tutorial.ipynb
+[I 09:55:40.974 NotebookApp] Saving file at /Reinforcement Learning (DQN) tutorial.ipynb
+[I 09:56:32.099 NotebookApp] Saving file at /Reinforcement Learning (DQN) tutorial.ipynb
+[I 09:56:48.324 NotebookApp] Saving file at /Reinforcement Learning (DQN) tutorial.ipynb
+[I 09:57:40.985 NotebookApp] Saving file at /Reinforcement Learning (DQN) tutorial.ipynb
+[I 09:58:06.268 NotebookApp] Saving file at /Reinforcement Learning (DQN) tutorial.ipynb
+[I 09:58:58.899 NotebookApp] Saving file at /Reinforcement Learning (DQN) tutorial.ipynb
+[I 09:59:10.012 NotebookApp] Saving file at /Reinforcement Learning (DQN) tutorial.ipynb
+[I 09:59:41.001 NotebookApp] Saving file at /Reinforcement Learning (DQN) tutorial.ipynb
+[I 10:01:41.005 NotebookApp] Saving file at /Reinforcement Learning (DQN) tutorial.ipynb
+[I 10:07:41.628 NotebookApp] Saving file at /Reinforcement Learning (DQN) tutorial.ipynb
+[I 10:09:41.566 NotebookApp] Saving file at /Reinforcement Learning (DQN) tutorial.ipynb
+[I 10:11:04.912 NotebookApp] Kernel restarted: 37555e81-7d5f-462f-a244-8317f00e9584
+[I 10:11:41.047 NotebookApp] Saving file at /Reinforcement Learning (DQN) tutorial.ipynb
+[I 10:13:41.054 NotebookApp] Saving file at /Reinforcement Learning (DQN) tutorial.ipynb
+[I 10:15:41.060 NotebookApp] Saving file at /Reinforcement Learning (DQN) tutorial.ipynb
+[I 10:17:41.071 NotebookApp] Saving file at /Reinforcement Learning (DQN) tutorial.ipynb
+[I 10:19:41.574 NotebookApp] Saving file at /Reinforcement Learning (DQN) tutorial.ipynb
+[I 10:21:32.885 NotebookApp] Kernel interrupted: 37555e81-7d5f-462f-a244-8317f00e9584
+[I 10:21:41.369 NotebookApp] Saving file at /Reinforcement Learning (DQN) tutorial.ipynb
+[I 10:21:43.915 NotebookApp] KernelRestarter: restarting kernel (1/5)
+WARNING:root:kernel 37555e81-7d5f-462f-a244-8317f00e9584 restarted
+[I 10:25:41.677 NotebookApp] Saving file at /Reinforcement Learning (DQN) tutorial.ipynb
+[I 10:43:41.185 NotebookApp] Saving file at /Reinforcement Learning (DQN) tutorial.ipynb
+[I 10:45:41.186 NotebookApp] Saving file at /Reinforcement Learning (DQN) tutorial.ipynb
+[I 10:45:54.098 NotebookApp] Saving file at /Reinforcement Learning (DQN) tutorial.ipynb
+[I 10:47:41.195 NotebookApp] Saving file at /Reinforcement Learning (DQN) tutorial.ipynb
+[I 10:48:57.988 NotebookApp] Saving file at /Reinforcement Learning (DQN) tutorial.ipynb
+[I 10:49:14.228 NotebookApp] Saving file at /Reinforcement Learning (DQN) tutorial.ipynb
+[I 10:49:17.227 NotebookApp] Saving file at /Reinforcement Learning (DQN) tutorial.ipynb
+[I 10:49:41.203 NotebookApp] Saving file at /Reinforcement Learning (DQN) tutorial.ipynb
+[I 10:51:41.212 NotebookApp] Saving file at /Reinforcement Learning (DQN) tutorial.ipynb
+[I 10:55:41.226 NotebookApp] Saving file at /Reinforcement Learning (DQN) tutorial.ipynb
+[I 10:56:06.958 NotebookApp] Saving file at /Reinforcement Learning (DQN) tutorial.ipynb
+[I 10:57:41.234 NotebookApp] Saving file at /Reinforcement Learning (DQN) tutorial.ipynb
+[I 11:01:41.250 NotebookApp] Saving file at /Reinforcement Learning (DQN) tutorial.ipynb
+[I 11:03:41.259 NotebookApp] Saving file at /Reinforcement Learning (DQN) tutorial.ipynb
+[I 11:05:41.270 NotebookApp] Saving file at /Reinforcement Learning (DQN) tutorial.ipynb
+[I 11:07:41.276 NotebookApp] Saving file at /Reinforcement Learning (DQN) tutorial.ipynb
+[I 11:09:41.285 NotebookApp] Saving file at /Reinforcement Learning (DQN) tutorial.ipynb
+[I 11:11:41.293 NotebookApp] Saving file at /Reinforcement Learning (DQN) tutorial.ipynb
+[I 11:13:41.300 NotebookApp] Saving file at /Reinforcement Learning (DQN) tutorial.ipynb
+[I 11:15:41.312 NotebookApp] Saving file at /Reinforcement Learning (DQN) tutorial.ipynb
+[I 11:17:41.318 NotebookApp] Saving file at /Reinforcement Learning (DQN) tutorial.ipynb
+[I 11:21:41.359 NotebookApp] Saving file at /Reinforcement Learning (DQN) tutorial.ipynb
+[I 13:07:41.752 NotebookApp] Saving file at /Reinforcement Learning (DQN) tutorial.ipynb
+[I 13:09:41.764 NotebookApp] Saving file at /Reinforcement Learning (DQN) tutorial.ipynb
+[I 13:11:41.770 NotebookApp] Saving file at /Reinforcement Learning (DQN) tutorial.ipynb
+[I 13:12:29.256 NotebookApp] Saving file at /Reinforcement Learning (DQN) tutorial.ipynb
+[I 13:13:41.776 NotebookApp] Saving file at /Reinforcement Learning (DQN) tutorial.ipynb
+[I 13:23:41.816 NotebookApp] Saving file at /Reinforcement Learning (DQN) tutorial.ipynb
+[I 13:23:51.833 NotebookApp] Saving file at /Reinforcement Learning (DQN) tutorial.ipynb
+[I 13:25:41.827 NotebookApp] Saving file at /Reinforcement Learning (DQN) tutorial.ipynb
+[I 13:27:41.835 NotebookApp] Saving file at /Reinforcement Learning (DQN) tutorial.ipynb
+[I 13:29:41.843 NotebookApp] Saving file at /Reinforcement Learning (DQN) tutorial.ipynb
+[I 13:31:41.850 NotebookApp] Saving file at /Reinforcement Learning (DQN) tutorial.ipynb
+[I 13:33:41.858 NotebookApp] Saving file at /Reinforcement Learning (DQN) tutorial.ipynb
+[I 13:35:41.867 NotebookApp] Saving file at /Reinforcement Learning (DQN) tutorial.ipynb
+[I 13:37:41.880 NotebookApp] Saving file at /Reinforcement Learning (DQN) tutorial.ipynb
+[I 13:39:41.888 NotebookApp] Saving file at /Reinforcement Learning (DQN) tutorial.ipynb
+[I 13:41:41.893 NotebookApp] Saving file at /Reinforcement Learning (DQN) tutorial.ipynb
+[I 13:42:35.230 NotebookApp] Saving file at /Reinforcement Learning (DQN) tutorial.ipynb
+[I 13:43:41.898 NotebookApp] Saving file at /Reinforcement Learning (DQN) tutorial.ipynb
+[I 13:45:41.909 NotebookApp] Saving file at /Reinforcement Learning (DQN) tutorial.ipynb
+[I 13:46:54.075 NotebookApp] Saving file at /Reinforcement Learning (DQN) tutorial.ipynb
+[I 13:47:41.924 NotebookApp] Saving file at /Reinforcement Learning (DQN) tutorial.ipynb
+[I 13:49:41.928 NotebookApp] Saving file at /Reinforcement Learning (DQN) tutorial.ipynb
+[I 13:51:41.939 NotebookApp] Saving file at /Reinforcement Learning (DQN) tutorial.ipynb
+[I 13:53:34.455 NotebookApp] Saving file at /Reinforcement Learning (DQN) tutorial.ipynb
+[I 13:53:41.942 NotebookApp] Saving file at /Reinforcement Learning (DQN) tutorial.ipynb
+[I 13:55:41.953 NotebookApp] Saving file at /Reinforcement Learning (DQN) tutorial.ipynb
+[I 13:57:41.964 NotebookApp] Saving file at /Reinforcement Learning (DQN) tutorial.ipynb
+[I 14:01:41.975 NotebookApp] Saving file at /Reinforcement Learning (DQN) tutorial.ipynb
+[I 14:03:41.995 NotebookApp] Saving file at /Reinforcement Learning (DQN) tutorial.ipynb
+[I 14:05:41.993 NotebookApp] Saving file at /Reinforcement Learning (DQN) tutorial.ipynb
+[I 14:07:42.003 NotebookApp] Saving file at /Reinforcement Learning (DQN) tutorial.ipynb
+[I 14:09:42.011 NotebookApp] Saving file at /Reinforcement Learning (DQN) tutorial.ipynb
+[I 14:11:42.017 NotebookApp] Saving file at /Reinforcement Learning (DQN) tutorial.ipynb
+[I 14:13:42.028 NotebookApp] Saving file at /Reinforcement Learning (DQN) tutorial.ipynb
+[I 14:15:42.037 NotebookApp] Saving file at /Reinforcement Learning (DQN) tutorial.ipynb
+[I 14:19:42.055 NotebookApp] Saving file at /Reinforcement Learning (DQN) tutorial.ipynb
+[I 14:21:42.062 NotebookApp] Saving file at /Reinforcement Learning (DQN) tutorial.ipynb
+[I 14:25:42.078 NotebookApp] Saving file at /Reinforcement Learning (DQN) tutorial.ipynb
+[I 14:26:16.443 NotebookApp] Saving file at /Reinforcement Learning (DQN) tutorial.ipynb
+[I 14:27:42.096 NotebookApp] Saving file at /Reinforcement Learning (DQN) tutorial.ipynb
+[I 14:37:42.146 NotebookApp] Saving file at /Reinforcement Learning (DQN) tutorial.ipynb
+[I 14:52:33.953 NotebookApp] 302 GET / (::1) 10.39ms
+[C 23:38:32.771 NotebookApp] received signal 15, stopping
+[I 23:38:33.343 NotebookApp] Shutting down kernels
+[I 23:38:34.178 NotebookApp] Kernel shutdown: 37555e81-7d5f-462f-a244-8317f00e9584
+[I 09:24:50.689 NotebookApp] [jupyter_nbextensions_configurator] enabled 0.2.5
+[I 09:24:50.720 NotebookApp] Serving notebooks from local directory: /Users/qisc/project/learn-pytorch
+[I 09:24:50.720 NotebookApp] 0 active kernels 
+[I 09:24:50.720 NotebookApp] The Jupyter Notebook is running at: http://localhost:8888/?token=7c2f79a5ff815332781e79208e153587632149516220c1d1
+[I 09:24:50.720 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[C 09:24:50.724 NotebookApp] 
+    
+    Copy/paste this URL into your browser when you connect for the first time,
+    to login with a token:
+        http://localhost:8888/?token=7c2f79a5ff815332781e79208e153587632149516220c1d1
+[I 09:24:51.229 NotebookApp] Accepting one-time-token-authenticated connection from ::1
+[W 09:24:55.920 NotebookApp] 404 GET /nbextensions/nb_conda/main.js (::1) 8.35ms referer=http://localhost:8888/notebooks/Reinforcement%20Learning%20(DQN)%20tutorial.ipynb
+[W 09:24:55.924 NotebookApp] 404 GET /nbextensions/nbpresent/js/nbpresent.min.js (::1) 1.95ms referer=http://localhost:8888/notebooks/Reinforcement%20Learning%20(DQN)%20tutorial.ipynb
+[W 09:24:55.928 NotebookApp] 404 GET /nbextensions/nb_anacondacloud/main.js (::1) 1.31ms referer=http://localhost:8888/notebooks/Reinforcement%20Learning%20(DQN)%20tutorial.ipynb
+[I 09:24:56.707 NotebookApp] Kernel started: 6549d3b0-674f-40d8-b242-863422dcb93c
+[W 09:24:56.874 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js (::1) 3.47ms referer=http://localhost:8888/notebooks/Reinforcement%20Learning%20(DQN)%20tutorial.ipynb
+[I 10:06:56.863 NotebookApp] Saving file at /Reinforcement Learning (DQN) tutorial.ipynb
+[I 10:07:24.668 NotebookApp] Saving file at /Reinforcement Learning (DQN) tutorial.ipynb
+[I 10:08:56.869 NotebookApp] Saving file at /Reinforcement Learning (DQN) tutorial.ipynb
+[I 10:10:56.877 NotebookApp] Saving file at /Reinforcement Learning (DQN) tutorial.ipynb
+[I 10:12:56.885 NotebookApp] Saving file at /Reinforcement Learning (DQN) tutorial.ipynb
+[I 10:14:56.891 NotebookApp] Saving file at /Reinforcement Learning (DQN) tutorial.ipynb
+[I 10:22:56.928 NotebookApp] Saving file at /Reinforcement Learning (DQN) tutorial.ipynb
+[I 10:32:56.976 NotebookApp] Saving file at /Reinforcement Learning (DQN) tutorial.ipynb
+[I 10:34:56.975 NotebookApp] Saving file at /Reinforcement Learning (DQN) tutorial.ipynb
+[I 10:35:41.681 NotebookApp] Saving file at /Reinforcement Learning (DQN) tutorial.ipynb
+[I 10:36:05.921 NotebookApp] Saving file at /Reinforcement Learning (DQN) tutorial.ipynb
+[I 10:36:25.945 NotebookApp] Saving file at /Reinforcement Learning (DQN) tutorial.ipynb
+[I 10:36:56.981 NotebookApp] Saving file at /Reinforcement Learning (DQN) tutorial.ipynb
+[I 10:38:52.095 NotebookApp] Saving file at /Reinforcement Learning (DQN) tutorial.ipynb
+[I 10:38:56.991 NotebookApp] Saving file at /Reinforcement Learning (DQN) tutorial.ipynb
+[I 10:39:57.413 NotebookApp] Saving file at /Reinforcement Learning (DQN) tutorial.ipynb
+[I 10:40:00.311 NotebookApp] Saving file at /Reinforcement Learning (DQN) tutorial.ipynb
+[I 10:40:41.167 NotebookApp] Saving file at /Reinforcement Learning (DQN) tutorial.ipynb
+[I 10:40:56.999 NotebookApp] Saving file at /Reinforcement Learning (DQN) tutorial.ipynb
+[I 10:42:57.012 NotebookApp] Saving file at /Reinforcement Learning (DQN) tutorial.ipynb
+[I 10:48:37.763 NotebookApp] Saving file at /Reinforcement Learning (DQN) tutorial.ipynb
+[I 10:48:57.032 NotebookApp] Saving file at /Reinforcement Learning (DQN) tutorial.ipynb
+[I 11:02:57.092 NotebookApp] Saving file at /Reinforcement Learning (DQN) tutorial.ipynb
+[I 11:04:57.097 NotebookApp] Saving file at /Reinforcement Learning (DQN) tutorial.ipynb
+[I 11:10:57.128 NotebookApp] Saving file at /Reinforcement Learning (DQN) tutorial.ipynb
+[I 11:18:57.158 NotebookApp] Saving file at /Reinforcement Learning (DQN) tutorial.ipynb
+[I 11:20:57.165 NotebookApp] Saving file at /Reinforcement Learning (DQN) tutorial.ipynb
+[I 11:21:09.073 NotebookApp] Saving file at /Reinforcement Learning (DQN) tutorial.ipynb
+[I 11:22:57.175 NotebookApp] Saving file at /Reinforcement Learning (DQN) tutorial.ipynb
+[I 11:23:22.119 NotebookApp] Saving file at /Reinforcement Learning (DQN) tutorial.ipynb
+[I 11:26:57.189 NotebookApp] Saving file at /Reinforcement Learning (DQN) tutorial.ipynb
+[I 15:01:03.946 NotebookApp] 302 GET / (::1) 7.98ms
+[W 15:01:07.883 NotebookApp] 404 GET /nbextensions/nb_conda/main.js (::1) 4.32ms referer=http://localhost:8888/notebooks/Reinforcement%20Learning%20(DQN)%20tutorial.ipynb
+[W 15:01:07.891 NotebookApp] 404 GET /nbextensions/nbpresent/js/nbpresent.min.js (::1) 2.48ms referer=http://localhost:8888/notebooks/Reinforcement%20Learning%20(DQN)%20tutorial.ipynb
+[W 15:01:07.895 NotebookApp] 404 GET /nbextensions/nb_anacondacloud/main.js (::1) 2.83ms referer=http://localhost:8888/notebooks/Reinforcement%20Learning%20(DQN)%20tutorial.ipynb
+[W 15:01:09.113 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js (::1) 2.97ms referer=http://localhost:8888/notebooks/Reinforcement%20Learning%20(DQN)%20tutorial.ipynb
+[I 15:12:30.832 NotebookApp] Kernel restarted: 6549d3b0-674f-40d8-b242-863422dcb93c
+[I 15:13:08.843 NotebookApp] Saving file at /Reinforcement Learning (DQN) tutorial.ipynb
+[I 15:15:08.848 NotebookApp] Saving file at /Reinforcement Learning (DQN) tutorial.ipynb
+[I 15:17:08.855 NotebookApp] Saving file at /Reinforcement Learning (DQN) tutorial.ipynb
+[I 15:18:34.394 NotebookApp] Saving file at /Reinforcement Learning (DQN) tutorial.ipynb
+[I 15:18:38.117 NotebookApp] Saving file at /Reinforcement Learning (DQN) tutorial.ipynb
+[I 15:19:08.859 NotebookApp] Saving file at /Reinforcement Learning (DQN) tutorial.ipynb
+[I 15:19:20.468 NotebookApp] Saving file at /Reinforcement Learning (DQN) tutorial.ipynb
+[I 15:19:56.139 NotebookApp] Saving file at /Reinforcement Learning (DQN) tutorial.ipynb
+[I 15:23:08.867 NotebookApp] Saving file at /Reinforcement Learning (DQN) tutorial.ipynb
+[I 15:27:08.873 NotebookApp] Saving file at /Reinforcement Learning (DQN) tutorial.ipynb
+[I 15:29:08.878 NotebookApp] Saving file at /Reinforcement Learning (DQN) tutorial.ipynb
+[I 15:31:08.880 NotebookApp] Saving file at /Reinforcement Learning (DQN) tutorial.ipynb
+[I 15:33:09.087 NotebookApp] Saving file at /Reinforcement Learning (DQN) tutorial.ipynb
+[I 16:22:03.836 NotebookApp] KernelRestarter: restarting kernel (1/5)
+[W 16:42:18.092 NotebookApp] 404 GET /nbextensions/nbpresent/js/nbpresent.min.js (::1) 3.90ms referer=http://localhost:8888/notebooks/Reinforcement%20Learning%20(DQN)%20tutorial.ipynb
+[W 16:42:18.096 NotebookApp] 404 GET /nbextensions/nb_conda/main.js (::1) 2.61ms referer=http://localhost:8888/notebooks/Reinforcement%20Learning%20(DQN)%20tutorial.ipynb
+[W 16:42:18.102 NotebookApp] 404 GET /nbextensions/nb_anacondacloud/main.js (::1) 2.01ms referer=http://localhost:8888/notebooks/Reinforcement%20Learning%20(DQN)%20tutorial.ipynb
+[W 16:42:19.098 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js (::1) 1.99ms referer=http://localhost:8888/notebooks/Reinforcement%20Learning%20(DQN)%20tutorial.ipynb
+[I 16:44:18.979 NotebookApp] Saving file at /Reinforcement Learning (DQN) tutorial.ipynb
+[I 16:44:31.570 NotebookApp] Kernel restarted: 6549d3b0-674f-40d8-b242-863422dcb93c
+[I 16:45:40.390 NotebookApp] Saving file at /Reinforcement Learning (DQN) tutorial.ipynb
+[I 16:46:18.979 NotebookApp] Saving file at /Reinforcement Learning (DQN) tutorial.ipynb
+[I 16:52:18.993 NotebookApp] Saving file at /Reinforcement Learning (DQN) tutorial.ipynb
+[I 16:52:52.784 NotebookApp] Saving file at /Reinforcement Learning (DQN) tutorial.ipynb
+[I 16:53:47.423 NotebookApp] Saving file at /Reinforcement Learning (DQN) tutorial.ipynb
+[I 16:54:19.001 NotebookApp] Saving file at /Reinforcement Learning (DQN) tutorial.ipynb
+[I 16:57:28.459 NotebookApp] Saving file at /Reinforcement Learning (DQN) tutorial.ipynb
+[I 16:58:19.005 NotebookApp] Saving file at /Reinforcement Learning (DQN) tutorial.ipynb
+[I 16:58:45.250 NotebookApp] Saving file at /Reinforcement Learning (DQN) tutorial.ipynb
+[I 16:59:04.512 NotebookApp] Saving file at /Reinforcement Learning (DQN) tutorial.ipynb
+[I 16:59:20.539 NotebookApp] Saving file at /Reinforcement Learning (DQN) tutorial.ipynb
+[I 17:00:19.012 NotebookApp] Saving file at /Reinforcement Learning (DQN) tutorial.ipynb
+[I 17:03:46.098 NotebookApp] Saving file at /Reinforcement Learning (DQN) tutorial.ipynb
+[I 17:04:10.337 NotebookApp] Kernel interrupted: 6549d3b0-674f-40d8-b242-863422dcb93c
+[I 17:04:19.063 NotebookApp] Saving file at /Reinforcement Learning (DQN) tutorial.ipynb
+[W 17:05:33.607 NotebookApp] 404 GET /nbextensions/nb_conda/main.js (::1) 4.78ms referer=http://localhost:8888/notebooks/Reinforcement%20Learning%20(DQN)%20tutorial.ipynb
+[W 17:05:33.622 NotebookApp] 404 GET /nbextensions/nbpresent/js/nbpresent.min.js (::1) 5.21ms referer=http://localhost:8888/notebooks/Reinforcement%20Learning%20(DQN)%20tutorial.ipynb
+[W 17:05:33.629 NotebookApp] 404 GET /nbextensions/nb_anacondacloud/main.js (::1) 5.32ms referer=http://localhost:8888/notebooks/Reinforcement%20Learning%20(DQN)%20tutorial.ipynb
+[W 17:05:33.693 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js (::1) 11.99ms referer=http://localhost:8888/notebooks/Reinforcement%20Learning%20(DQN)%20tutorial.ipynb
+[I 17:07:35.050 NotebookApp] Saving file at /Reinforcement Learning (DQN) tutorial.ipynb
+[I 17:09:35.051 NotebookApp] Saving file at /Reinforcement Learning (DQN) tutorial.ipynb
+[I 17:11:35.053 NotebookApp] Saving file at /Reinforcement Learning (DQN) tutorial.ipynb
+[I 17:11:47.270 NotebookApp] Saving file at /Reinforcement Learning (DQN) tutorial.ipynb
+[I 17:12:03.085 NotebookApp] Saving file at /Reinforcement Learning (DQN) tutorial.ipynb
+[I 17:12:06.045 NotebookApp] Saving file at /Reinforcement Learning (DQN) tutorial.ipynb
+[I 17:12:50.434 NotebookApp] Saving file at /Reinforcement Learning (DQN) tutorial.ipynb
+[I 17:13:35.057 NotebookApp] Saving file at /Reinforcement Learning (DQN) tutorial.ipynb
+[I 17:15:35.062 NotebookApp] Saving file at /Reinforcement Learning (DQN) tutorial.ipynb
+[I 17:17:35.067 NotebookApp] Saving file at /Reinforcement Learning (DQN) tutorial.ipynb
+[I 17:19:35.076 NotebookApp] Saving file at /Reinforcement Learning (DQN) tutorial.ipynb
+[I 17:20:26.717 NotebookApp] Saving file at /Reinforcement Learning (DQN) tutorial.ipynb
+[I 17:20:49.255 NotebookApp] Saving file at /Reinforcement Learning (DQN) tutorial.ipynb
+[I 17:21:19.094 NotebookApp] Saving file at /Reinforcement Learning (DQN) tutorial.ipynb
+[I 17:23:35.079 NotebookApp] Saving file at /Reinforcement Learning (DQN) tutorial.ipynb
+[I 17:25:35.087 NotebookApp] Saving file at /Reinforcement Learning (DQN) tutorial.ipynb
+[I 17:27:35.085 NotebookApp] Saving file at /Reinforcement Learning (DQN) tutorial.ipynb
+[I 17:28:48.987 NotebookApp] Saving file at /Reinforcement Learning (DQN) tutorial.ipynb
+[I 17:30:18.393 NotebookApp] Saving file at /Reinforcement Learning (DQN) tutorial.ipynb
+[I 17:30:31.681 NotebookApp] Saving file at /Reinforcement Learning (DQN) tutorial.ipynb
+[I 17:32:26.912 NotebookApp] Saving file at /Reinforcement Learning (DQN) tutorial.ipynb
+[I 17:34:10.666 NotebookApp] Saving file at /Reinforcement Learning (DQN) tutorial.ipynb
+[I 17:34:40.278 NotebookApp] Saving file at /Reinforcement Learning (DQN) tutorial.ipynb
+[I 17:35:35.107 NotebookApp] Saving file at /Reinforcement Learning (DQN) tutorial.ipynb
+[I 17:35:47.240 NotebookApp] Saving file at /Reinforcement Learning (DQN) tutorial.ipynb
+[I 17:36:06.859 NotebookApp] Saving file at /Reinforcement Learning (DQN) tutorial.ipynb
+[I 17:37:35.113 NotebookApp] Saving file at /Reinforcement Learning (DQN) tutorial.ipynb
+[I 17:38:27.163 NotebookApp] Saving file at /Reinforcement Learning (DQN) tutorial.ipynb
+[I 17:38:43.376 NotebookApp] Saving file at /Reinforcement Learning (DQN) tutorial.ipynb
+[I 17:39:06.454 NotebookApp] Saving file at /Reinforcement Learning (DQN) tutorial.ipynb
+[I 17:39:17.452 NotebookApp] Saving file at /Reinforcement Learning (DQN) tutorial.ipynb
+[I 17:39:35.116 NotebookApp] Saving file at /Reinforcement Learning (DQN) tutorial.ipynb
+[I 17:40:05.803 NotebookApp] Saving file at /Reinforcement Learning (DQN) tutorial.ipynb
+[I 17:40:11.855 NotebookApp] Saving file at /Reinforcement Learning (DQN) tutorial.ipynb
+[I 17:41:30.045 NotebookApp] Saving file at /Reinforcement Learning (DQN) tutorial.ipynb
+[I 17:41:35.119 NotebookApp] Saving file at /Reinforcement Learning (DQN) tutorial.ipynb
+[I 17:41:44.345 NotebookApp] Saving file at /Reinforcement Learning (DQN) tutorial.ipynb
+[I 17:43:35.136 NotebookApp] Saving file at /Reinforcement Learning (DQN) tutorial.ipynb
+[I 17:45:35.134 NotebookApp] Saving file at /Reinforcement Learning (DQN) tutorial.ipynb
+[I 19:29:19.010 NotebookApp] Saving file at /Reinforcement Learning (DQN) tutorial.ipynb
+[I 21:19:03.845 NotebookApp] Saving file at /Reinforcement Learning (DQN) tutorial.ipynb
+[I 21:21:03.837 NotebookApp] Saving file at /Reinforcement Learning (DQN) tutorial.ipynb
+[I 21:41:03.876 NotebookApp] Saving file at /Reinforcement Learning (DQN) tutorial.ipynb
+[I 21:45:03.883 NotebookApp] Saving file at /Reinforcement Learning (DQN) tutorial.ipynb
+[I 21:51:03.896 NotebookApp] Saving file at /Reinforcement Learning (DQN) tutorial.ipynb
+[I 08:42:19.967 NotebookApp] 302 GET / (::1) 6.78ms
+[W 08:42:23.806 NotebookApp] 404 GET /nbextensions/nb_conda/main.js (::1) 2.89ms referer=http://localhost:8888/notebooks/Reinforcement%20Learning%20(DQN)%20tutorial.ipynb
+[W 08:42:23.809 NotebookApp] 404 GET /nbextensions/nb_anacondacloud/main.js (::1) 2.22ms referer=http://localhost:8888/notebooks/Reinforcement%20Learning%20(DQN)%20tutorial.ipynb
+[W 08:42:23.814 NotebookApp] 404 GET /nbextensions/nbpresent/js/nbpresent.min.js (::1) 3.08ms referer=http://localhost:8888/notebooks/Reinforcement%20Learning%20(DQN)%20tutorial.ipynb
+[W 08:42:25.234 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js (::1) 3.76ms referer=http://localhost:8888/notebooks/Reinforcement%20Learning%20(DQN)%20tutorial.ipynb
+[I 08:46:24.949 NotebookApp] Saving file at /Reinforcement Learning (DQN) tutorial.ipynb

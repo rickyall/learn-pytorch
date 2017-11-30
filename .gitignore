@@ -4,9 +4,9 @@ __pycache__/
 
 # C extensions
 *.so
-datasets/
 # Distribution / packaging
 .Python
+datasets/
 env/
 build/
 develop-eggs/
